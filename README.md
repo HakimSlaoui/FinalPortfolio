@@ -67,3 +67,21 @@ You can install these dependencies using pip:
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn
+```
+---
+
+## Running the Projects
+
+To run each project, simply execute the corresponding Python script in your terminal or IDE.
+
+- MinHashing: ```minhashing.py```
+
+- Linear Regression: ```linear_regression.py```
+
+- Collaborative Filtering: ```collaborative_filtering.py```
+
+---
+
+## Conclusion
+
+These projects provide a hands-on introduction to fundamental techniques in machine learning and recommendation systems. Each implementation is designed to be simple yet illustrative of key concepts like similarity estimation, regression, and collaborative filtering.
