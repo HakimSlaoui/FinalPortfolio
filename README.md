@@ -20,7 +20,7 @@ MinHashing is an efficient technique for estimating the Jaccard similarity betwe
 
 ---
 
-### 2. **Linear Regression from Scratch**
+### 2. **Linear Regression**
 
 This project implements **Linear Regression** using **Gradient Descent**. It demonstrates the process of fitting a line to data points, optimizing the parameters (weights) to minimize the Mean Squared Error (MSE).
 
